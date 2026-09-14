@@ -128,7 +128,7 @@ This project is grounded in six academic papers:
 ## Ethics
 - Dataset: Publicly available synthetic dataset — no real personal data
 - Ethics approval: UREC Form 1 submitted (Sheffield Hallam University)
-- Evaluation: Anonymous questionnaire with 1 participant from SHU
+- Evaluation: Anonymous questionnaire with 1 participant from SHU and 1 from Software Engineering Background
 
 ---
 
